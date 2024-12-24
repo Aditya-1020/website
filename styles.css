@@ -25,6 +25,9 @@ a:hover {
   }
   
   li { margin: 0.2em 0em 0.2em 0em; }
+  li a{
+    text-decoration: none;
+  }
   nav {
     text-align: right;
     font-size: 80%;
