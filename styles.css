@@ -52,3 +52,10 @@ a:hover {
     color: var(--nav_and_footer_link_color);
     text-decoration: none;
   }
+
+  article img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 1em 0;
+  }
